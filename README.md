@@ -22,8 +22,7 @@ What it says on the label. Refer to https://www.frontendmentor.io/challenges/qr-
 
 Desktop:
 
-[insert screenshot here]
-
+![image](https://github.com/bonniemira/QRChallenge/assets/124724575/b7ee37cf-0c30-45f3-953f-d1f66a1c97c3)
 Mobile:
 
 [insert screenshot here]
